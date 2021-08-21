@@ -1,0 +1,66 @@
+body{
+  background-color: rgb(135, 224, 194);
+}
+header {
+  margin-bottom: 40px;
+}
+header h1{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 20px 10px;
+  border: 5px solid coral;
+}
+
+#imgSection{
+  max-width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+  
+
+#imgSection img{
+  width: 300px;
+  height: 300px;
+  border: 10px solid greenyellow;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+#imgSection img:hover{
+  background-color: red;
+}
+
+#textSection{
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-top: 500px;
+
+}
+.liList{
+ padding-bottom: 15px;
+ font-size: 20px;
+
+}
+#result{
+  font-size: 30px;
+  color: red;
+  background-color: black;
+  width: 150px;
+  margin-bottom: 15px;
+}
+#chart{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer{
+  background-color: black;
+  text-align: center;
+}
+footer p{
+  font-size: 30px;
+  color: white;
+  padding: 30px;
+
+}
